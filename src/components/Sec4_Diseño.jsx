@@ -1,4 +1,4 @@
-import responsive from '.././assets/Responsive.webp'; 
+import responsive from '../assets/Responsive.webp'; 
 
 export function Sec4_Diseño(){
     return (

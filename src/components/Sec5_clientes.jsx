@@ -1,7 +1,7 @@
 import empresa1 from '.././assets/LogoHBMF.webp'; 
 import empresa2 from '.././assets/LogoLaCurva.webp'; 
 import empresa3 from '.././assets/LogoUneme.webp';
-import empresa4 from '.././assets/LogoElPino'; 
+import empresa4 from '.././assets/LogoElPino.webp'; 
 
 export function Sec5_Clientes() {
   return (

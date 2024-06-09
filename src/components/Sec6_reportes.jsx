@@ -1,5 +1,4 @@
-import reporte from '.././asset/PcReporte.webp'; 
-
+import reporte from '.././assets/PcReporte.webp'; 
 export function Sec6_Reportes() {
   return (
     <section>
