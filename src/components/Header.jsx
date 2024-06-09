@@ -1,5 +1,5 @@
 import ".././css/header.css";
-import logo from '.././assets/logo-nebula.webp'; // Logo
+import logo from '.././assets/logo-nebula.webp'; // LOGO
 
 export function Header() {
   return (
