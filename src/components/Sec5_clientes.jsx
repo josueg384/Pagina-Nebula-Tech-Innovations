@@ -1,32 +1,26 @@
-import nebula from '.././assets/nebulaBlue.jpg'; // Logo
-import images from '.././assets/Imagen.png'; // Logo
-import images2 from '.././assets/Imagen2.png'; // Logo
-import images3 from '.././assets/Imagen3.png'; // Logo
-import images4 from '.././assets/Imagen4.png'; // Logo
+import empresa1 from '.././assets/LogoHBMF.webp'; 
+import empresa2 from '.././assets/LogoLaCurva.webp'; 
+import empresa3 from '.././assets/LogoUneme.webp';
+import empresa4 from '.././assets/LogoElPino'; 
 
-
-export function Sec5_cliente() {
+export function Sec5_Clientes() {
   return (
     <section>
-      <div>
-            <img src={nebula} alt="Nebulosa" />
-            <h3>Clientes de Nebula Tech Innovations</h3>
-        </div>
+      <h3>Clientes de Nebula Tech Innovations</h3>
       <div>
         <div>
-          <img src={images} alt="imagen1" />
-        </div>
-        <div> 
-          <img src={images2} alt="imagen2" />
+          <img src={empresa1} alt="Logotipo empresa 1" />
         </div>
         <div>
-          <img src={images3} alt="imagen3" />
+          <img src={empresa2} alt="Logotipo empresa 2" />
         </div>
         <div>
-          <img src={images4} alt="imagen4" />
+          <img src={empresa3} alt="Logotipo empresa 3" />
+        </div>
+        <div>
+          <img src={empresa4} alt="Logotipo empresa 4" />
         </div>
       </div>
-      
     </section>
   );
 }

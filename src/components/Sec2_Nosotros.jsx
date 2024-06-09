@@ -1,10 +1,10 @@
-import logo from ".././assets/logo-nebula.webp"; // LOGO
+import logo from ".././assets/LogoNebula.webp"; 
 
 export function Sec2_Nosotros() {
   return (
     <section>
       <div>
-          <img src={logo} alt="Logo de Nebula Tech Innovations" />
+        <img src={logo} alt="Logo de Nebula Tech Innovations" />
         <div>
           <p>
             Nebula Tech Innovations es una empresa especializada en el
